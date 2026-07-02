@@ -1,0 +1,8 @@
+{
+  "name": "AI HealthTech Assistant",
+  "description": "AI-integrated platform for health tech: clinical administration, automated patient triaging, and chest X-ray multi-disease biomarker analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
